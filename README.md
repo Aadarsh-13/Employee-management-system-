@@ -1,2 +1,2 @@
 # Employee-management-system
-This Employee management system is made by using Tkinter
+This Employee management system is made by using Tkinter and SQL database 
